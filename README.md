@@ -10,6 +10,13 @@
 *   **`run_batadal.py`, `run_hai.py`, `run_wadi.py`, `run_sherlock.py`** — Скрипти для автономного запуску через термінал на конкретних наборах даних.
 *   **`draw_architecture.py`** — Скрипт для генерації архітектурних схем.
 
+## Набори даних (Datasets)
+Через обмеження розміру файлів на GitHub, самі дані не включені в репозиторій. Для запуску скриптів необхідно завантажити наступні публічні еталонні індустріальні датасети та розмістити їх у відповідних папках (наприклад, `../BATADAL/`):
+1. **BATADAL** (Water Distribution Network)
+2. **WADI** (Water Distribution Testbed)
+3. **HAI** (HIL-based Augmented ICS)
+4. **Sherlock IoT** (Smart grid/IoT environment)
+
 ## Швидкий запуск
 
 ```bash
